@@ -35,7 +35,7 @@ https://bkill9.github.io/odin-recipes/index.html
   Image: https://tuxonchix.com/wp-content/uploads/2024/09/38.jpg
 
 - Classic Beef Pot Roast image  
-  Source: https://fergusonfarms.farm/recipes/classic-beef-pot-roast-with-ferguson-farms-grass-fed-beef
+  Source: https://fergusonfarms.farm/recipes/classic-beef-pot-roast-with-ferguson-farms-grass-fed-beef  
   Image: https://s3.amazonaws.com/grazecart/fergusonfarmbirds/images/1732220261_673f9565cd502.jpg
 
 - Tomato soup image  
